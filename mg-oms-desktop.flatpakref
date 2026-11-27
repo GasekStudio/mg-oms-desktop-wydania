@@ -1,0 +1,8 @@
+[Flatpak Ref]
+Name=pl.mgoms.desktop
+Branch=stable
+Title=MG OMS Desktop
+Url=https://gasekstudio.github.io/mg-oms-desktop-wydania/repo/
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+IsRuntime=false
+GPGKey=mDMEawl27BYJKwYBBAHaRw8BAQdAlmIxZcwP8CPf0eP4FciIHGR4Bu4ZIg+mkxEZ9S0RrUu0VU1HIE9NUyBEZXNrdG9wIC0gcG9kcGlzIGFrdHVhbGl6YWNqaSA8Mjg1NzA4MDUxK0dhc2VrU3R1ZGlvQHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbT6IkwQTFgoAOxYhBHJBD+OzRJaxXB7Us2VcH1su8xC5BQJrCXbsAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEGVcH1su8xC58W0BAIxbymaffcY8/j5UfXG6urrZsj15fWGNhTbW+pwohwVPAP9KwZWssqJNyr41a9YwRbFRLx4JB4mums8tgveHM9FvDw==
