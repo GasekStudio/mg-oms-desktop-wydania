@@ -1,7 +1,14 @@
 {
- "wersja": "0.3.0",
+ "wersja": "0.4.0",
  "data": "2026-11-27",
  "zmiany": [
+  "Skanuj i szukaj: zamówienia i produkty po numerze, nazwie, SKU i EAN (czytnik kodów, Ctrl+K)",
+  "Kompletacja z drukiem listy według lokalizacji",
+  "Stan sklepu i baner problemu na pulpicie i liście zamówień",
+  "Zamówienia w menu z licznikami",
+  "Pozycje wymagające modułu, którego sklep nie ma, opisują, co daje moduł („Zobacz moduł”)",
+  "Przykładowy sklep do obejrzenia bez łączenia",
+  "Nowe akcenty kolorów, Ustawienia zwijane, dziennik zmian po dniach",
   "Menu boczne z całym planem wersji 1.0 (to, co jeszcze nie działa, ma pusty ekran z opisem)",
   "Kilka sklepów: dodawanie kolejnego sklepu i przełączanie w menu",
   "Ustawienia w sekcjach: sklepy, aktualizacje, wygląd i menu, język, dziennik zmian, FAQ",
