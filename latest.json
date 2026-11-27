@@ -1,7 +1,14 @@
 {
- "wersja": "0.4.0",
+ "wersja": "0.5.0",
  "data": "2026-11-27",
  "zmiany": [
+  "Statystyki: 7 i 30 dni z wykresem i porównaniem",
+  "Zdarzenia sklepu z powiadomieniami systemowymi",
+  "Wszystkie sklepy razem w jednej tabeli",
+  "Integracje → MG Allegro: przegląd, błędy ofert, zamówienia z kontem, zdarzenia",
+  "Eksport listy zamówień do CSV i druk zamówienia",
+  "Baner problemu można ukryć",
+  "Ustawienia powiadomień i lektora (nagrania w 0.8)",
   "Skanuj i szukaj: zamówienia i produkty po numerze, nazwie, SKU i EAN (czytnik kodów, Ctrl+K)",
   "Kompletacja z drukiem listy według lokalizacji",
   "Stan sklepu i baner problemu na pulpicie i liście zamówień",
