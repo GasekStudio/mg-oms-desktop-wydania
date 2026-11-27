@@ -1,7 +1,12 @@
 {
- "wersja": "0.5.1",
+ "wersja": "0.6.0",
  "data": "2026-11-27",
  "zmiany": [
+  "Własny pasek okna MG OMS: logo, sklep, szukanie (Ctrl+F), data i godzina; na GNOME sam przycisk „Zamknij” (powiększenie dwuklikiem w pasek).",
+  "Nowe menu: Praca na górze, Pakowanie ze „Zbieraniem”, Stan sklepu razem ze Zdarzeniami.",
+  "Ustawienia → Menu: własne nazwy, kolejność i ukrywanie pozycji.",
+  "Dostępność: wysoki kontrast, wielkość tekstu do 200%, klawiatura (F1: skróty), czytnik ekranu.",
+  "Łączenie komputera przez część „Komputer” w pulpicie MG OMS Center (łącznik 1.3.5).",
   "Poprawka: aktualizacja z okna działa (powiadomienia bez nowych uprawnień systemu)",
   "Statystyki: 7 i 30 dni z wykresem i porównaniem",
   "Zdarzenia sklepu z powiadomieniami systemowymi",
