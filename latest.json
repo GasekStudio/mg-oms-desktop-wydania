@@ -1,7 +1,8 @@
 {
- "wersja": "0.2.1",
+ "wersja": "0.2.2",
  "data": "2026-11-27",
  "zmiany": [
-  "Treść na całą szerokość okna, bez pustego pasa po prawej"
+  "Poprawka: „Zainstaluj” od razu instaluje nową wersję (wcześniej mogło stać na „Pobieram i instaluję…”)",
+  "Przyciski wyszarzone w trakcie instalacji"
  ]
 }
