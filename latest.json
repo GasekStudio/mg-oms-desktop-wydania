@@ -1,7 +1,8 @@
 {
- "wersja": "0.5.0",
+ "wersja": "0.5.1",
  "data": "2026-11-27",
  "zmiany": [
+  "Poprawka: aktualizacja z okna działa (powiadomienia bez nowych uprawnień systemu)",
   "Statystyki: 7 i 30 dni z wykresem i porównaniem",
   "Zdarzenia sklepu z powiadomieniami systemowymi",
   "Wszystkie sklepy razem w jednej tabeli",
