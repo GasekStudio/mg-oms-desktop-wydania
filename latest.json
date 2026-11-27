@@ -1,8 +1,11 @@
 {
- "wersja": "0.2.2",
+ "wersja": "0.3.0",
  "data": "2026-11-27",
  "zmiany": [
-  "Poprawka: „Zainstaluj” od razu instaluje nową wersję (wcześniej mogło stać na „Pobieram i instaluję…”)",
-  "Przyciski wyszarzone w trakcie instalacji"
+  "Menu boczne z całym planem wersji 1.0 (to, co jeszcze nie działa, ma pusty ekran z opisem)",
+  "Kilka sklepów: dodawanie kolejnego sklepu i przełączanie w menu",
+  "Ustawienia w sekcjach: sklepy, aktualizacje, wygląd i menu, język, dziennik zmian, FAQ",
+  "Numer wersji przy nazwie otwiera dziennik zmian",
+  "Flagi języka (polski; niemiecki i angielski wkrótce), zwijanie menu, start na całym ekranie"
  ]
 }
