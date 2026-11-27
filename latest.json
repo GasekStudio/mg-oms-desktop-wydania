@@ -1,9 +1,7 @@
 {
- "wersja": "0.2.0",
+ "wersja": "0.2.1",
  "data": "2026-11-27",
  "zmiany": [
-  "Aktualizacje: aplikacja sama sprawdza nową wersję i pyta, czy ją zainstalować",
-  "Nowy ekran Ustawienia: włączanie sprawdzania i „Sprawdź teraz”",
-  "Polskie nazwy stanów zamówień"
+  "Treść na całą szerokość okna, bez pustego pasa po prawej"
  ]
 }
