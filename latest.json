@@ -1,7 +1,13 @@
 {
- "wersja": "0.7.1",
+ "wersja": "0.8.0",
  "data": "2026-11-28",
  "zmiany": [
+  "Profil E-commerce z Panelem e-commerce (Allegro, jakość produktów, ceny, import, kanały, czego szukali klienci, marketing)",
+  "Własne profile administratora: nazwa profilu i układ według wzoru",
+  "Odświeżanie na żywo co 30 sekund i po powrocie do okna; Ustawienia i Szukaj już nie wracają same",
+  "Samouczek na ekranie logowania z lektorem (do wyciszenia)",
+  "Powiadomienia i ukryte banery zapisane przy koncie pracownika",
+  "Nowa ikona aplikacji",
   "Poprawka: szary ekran zamiast aplikacji na części komputerów z Linuksem (np. Linux Mint z kartą NVIDIA).",
   "Konta pracowników: logowanie listą kont, nazwą albo kartą pracownika z PIN-em; ustawienia idą za kontem.",
   "Ekrany startowe: Pulpit Administratora, Panel kierownika, Moja praca; Podgląd jako dla Administratora.",
