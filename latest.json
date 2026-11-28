@@ -1,7 +1,13 @@
 {
- "wersja": "0.8.0",
+ "wersja": "0.9.0",
  "data": "2026-11-28",
  "zmiany": [
+  "Nowe Ustawienia: działy w grupach z kolorowymi ikonami, szukanie, jeden dział naraz",
+  "Dział Moduły MG OMS: które moduły masz, co dadzą pozostałe",
+  "Pięć nowych motywów; motyw i forma zwracania się przy koncie pracownika",
+  "Czytelniejsze menu boczne, dymki ze skrótami, przycisk Wyloguj",
+  "Przywracanie ustawień domyślnych i kontakt kontakt@mgoms.pl",
+  "Poprawki: pasek przewijania, wysoki kontrast przy każdym motywie",
   "Profil E-commerce z Panelem e-commerce (Allegro, jakość produktów, ceny, import, kanały, czego szukali klienci, marketing)",
   "Własne profile administratora: nazwa profilu i układ według wzoru",
   "Odświeżanie na żywo co 30 sekund i po powrocie do okna; Ustawienia i Szukaj już nie wracają same",
