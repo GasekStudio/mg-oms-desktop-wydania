@@ -1,7 +1,12 @@
 {
- "wersja": "0.6.1",
+ "wersja": "0.7.0",
  "data": "2026-11-28",
  "zmiany": [
+  "Konta pracowników: logowanie listą kont, nazwą albo kartą pracownika z PIN-em; ustawienia idą za kontem.",
+  "Ekrany startowe: Pulpit Administratora, Panel kierownika, Moja praca; Podgląd jako dla Administratora.",
+  "Tryb stanowiska (F11): pełny ekran z dużymi kaflami, polem skanu, podpowiedziami i skrótami.",
+  "Głośność i wyciszenie, motywy okna i stanowiska z Dark, skróty do zmiany, karta z kodami do druku.",
+  "Brak połączenia, ostrzeżenie przed wylogowaniem, przypomnienie o zaległościach; menu bez czerwonych linii.",
   "Zaznaczona pozycja menu i paski koloru z prostymi rogami (wspólny wygląd rodziny MG).",
   "Własny pasek okna MG OMS: logo, sklep, szukanie (Ctrl+F), data i godzina; na GNOME sam przycisk „Zamknij” (powiększenie dwuklikiem w pasek).",
   "Nowe menu: Praca na górze, Pakowanie ze „Zbieraniem”, Stan sklepu razem ze Zdarzeniami.",
