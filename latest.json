@@ -1,7 +1,8 @@
 {
- "wersja": "0.7.0",
+ "wersja": "0.7.1",
  "data": "2026-11-28",
  "zmiany": [
+  "Poprawka: szary ekran zamiast aplikacji na części komputerów z Linuksem (np. Linux Mint z kartą NVIDIA).",
   "Konta pracowników: logowanie listą kont, nazwą albo kartą pracownika z PIN-em; ustawienia idą za kontem.",
   "Ekrany startowe: Pulpit Administratora, Panel kierownika, Moja praca; Podgląd jako dla Administratora.",
   "Tryb stanowiska (F11): pełny ekran z dużymi kaflami, polem skanu, podpowiedziami i skrótami.",
